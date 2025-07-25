@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Omega Seamaster",
+    "price": 2500,
+    "features": ["waterproof", "steel strap", "chronograph"]
+  },
+  {
+    "name": "Rolex Submariner",
+    "price": 9500,
+    "features": ["waterproof", "automatic", "ceramic bezel"]
+  },
+  {
+    "name": "Casio G-Shock GA2100",
+    "price": 150,
+    "features": ["shock resistant", "resin strap", "digital-analog"]
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "price": 399,
+    "features": ["smartwatch", "heart rate", "GPS"]
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "price": 329,
+    "features": ["smartwatch", "sleep tracking", "OLED display"]
+  },
+  {
+    "name": "Fossil Gen 6",
+    "price": 299,
+    "features": ["smartwatch", "Google WearOS", "interchangeable straps"]
+  },
+  {
+    "name": "Tag Heuer Carrera",
+    "price": 4200,
+    "features": ["chronograph", "leather strap", "sapphire crystal"]
+  },
+  {
+    "name": "Timex Expedition Scout",
+    "price": 85,
+    "features": ["outdoor", "leather strap", "indiglo light"]
+  },
+  {
+    "name": "Tissot PRX",
+    "price": 695,
+    "features": ["automatic", "brushed stainless steel", "blue dial"]
+  },
+  {
+    "name": "Citizen Eco-Drive",
+    "price": 275,
+    "features": ["solar powered", "leather strap", "date window"]
+  },
+  {
+    "name": "Seiko Presage",
+    "price": 520,
+    "features": ["automatic", "sapphire crystal", "Japanese movement"]
+  },
+  {
+    "name": "Garmin Forerunner 255",
+    "price": 349,
+    "features": ["GPS", "fitness tracking", "lightweight"]
+  },
+  {
+    "name": "Diesel Mega Chief",
+    "price": 180,
+    "features": ["bold design", "chronograph", "leather strap"]
+  },
+  {
+    "name": "Michael Kors Lexington",
+    "price": 275,
+    "features": ["fashion watch", "gold-tone", "stainless steel bracelet"]
+  },
+  {
+    "name": "Suunto 9 Peak",
+    "price": 499,
+    "features": ["sport watch", "altimeter", "military durability"]
+  },
+  {
+    "name": "Bering Classic Slim",
+    "price": 140,
+    "features": ["ultra-thin", "minimalist", "mesh strap"]
+  },
+  {
+    "name": "Orient Bambino",
+    "price": 160,
+    "features": ["classic dress watch", "leather strap", "automatic"]
+  },
+  {
+    "name": "Movado Museum Classic",
+    "price": 695,
+    "features": ["minimalist dial", "black leather", "Swiss quartz"]
+  },
+  {
+    "name": "Bulova Lunar Pilot",
+    "price": 395,
+    "features": ["chronograph", "titanium", "NASA reissue"]
+  },
+  {
+    "name": "Nixon Time Teller",
+    "price": 100,
+    "features": ["simple design", "polycarbonate", "water resistant"]
+  }
+]

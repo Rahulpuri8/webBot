@@ -1,0 +1,22 @@
+[
+  { "question": "Do you offer international shipping?", "answer": "Yes, we offer international shipping to over 50 countries." },
+  { "question": "What is your return policy?", "answer": "Returns are accepted within 30 days of purchase." },
+  { "question": "What warranty do the watches come with?", "answer": "All watches come with a 12-month manufacturer's warranty." },
+  { "question": "Can I track my order?", "answer": "Yes, you will receive a tracking link via email once your order ships." },
+  { "question": "Do you offer gift wrapping?", "answer": "Yes, gift wrapping is available at checkout for a small fee." },
+  { "question": "Can I cancel my order?", "answer": "Orders can be cancelled within 2 hours of placement." },
+  { "question": "How long does delivery take?", "answer": "Delivery takes 3–5 business days within the country, and up to 10 for international orders." },
+  { "question": "Is Cash on Delivery available?", "answer": "Yes, Cash on Delivery is available in select regions." },
+  { "question": "Are your watches water-resistant?", "answer": "Most of our watches are water-resistant up to 50 meters. Please check individual specs." },
+  { "question": "Can I exchange my watch?", "answer": "Yes, exchanges are allowed within 7 days of delivery." },
+  { "question": "Do you sell smartwatches?", "answer": "Yes, we offer a variety of smartwatches from leading brands." },
+  { "question": "Do watches come with original packaging?", "answer": "Yes, all watches come in their original packaging with manuals." },
+  { "question": "Can I get a replacement strap?", "answer": "Yes, replacement straps are available in our accessories section." },
+  { "question": "Do you repair watches?", "answer": "Yes, we offer repair services through our service centers." },
+  { "question": "Is there a student discount?", "answer": "Yes, we offer 10% student discount. Apply with your student ID at checkout." },
+  { "question": "What payment methods do you accept?", "answer": "We accept Visa, MasterCard, PayPal, and more." },
+  { "question": "Are the watches authentic?", "answer": "Yes, we sell only 100% authentic branded watches." },
+  { "question": "Do you restock sold-out items?", "answer": "Yes, popular items are restocked regularly." },
+  { "question": "Can I add a personalized message?", "answer": "Yes, you can add a note or message during checkout." },
+  { "question": "Is there a physical store?", "answer": "No, we are an online-only store currently." }
+]
