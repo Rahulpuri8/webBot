@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pymongo
+langchain
+faiss_cpu
+sentence_transformers
+ollama
+langchain_community
+pytest
+
